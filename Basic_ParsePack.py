@@ -121,4 +121,4 @@ def main(): #parse the ethernet function to get the details
 
 if __name__ == '__main__':
     main()
-
+#sudo python3 Basic_ParsePack.py
